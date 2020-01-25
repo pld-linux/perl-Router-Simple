@@ -4,7 +4,6 @@
 #
 %define		pdir	Router
 %define		pnam	Simple
-%include	/usr/lib/rpm/macros.perl
 Summary:	Router::Simple - simple HTTP router
 #Summary(pl.UTF-8):	
 Name:		perl-Router-Simple
